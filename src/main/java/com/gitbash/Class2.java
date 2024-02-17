@@ -7,5 +7,9 @@ public class Class2 {
 	public void cmpid() {
 		System.out.println("6789");
 	}
+		public void cmpadd() {
+			System.out.println("");
+		}
+	}
 
-}
+
